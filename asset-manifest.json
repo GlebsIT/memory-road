@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/memory-road/static/css/main.3bc46635.chunk.css",
-    "main.js": "/memory-road/static/js/main.548c717a.chunk.js",
-    "main.js.map": "/memory-road/static/js/main.548c717a.chunk.js.map",
+    "main.css": "/memory-road/static/css/main.35a3779e.chunk.css",
+    "main.js": "/memory-road/static/js/main.06b35c9b.chunk.js",
+    "main.js.map": "/memory-road/static/js/main.06b35c9b.chunk.js.map",
     "runtime-main.js": "/memory-road/static/js/runtime-main.e54b47de.js",
     "runtime-main.js.map": "/memory-road/static/js/runtime-main.e54b47de.js.map",
     "static/css/2.86df01db.chunk.css": "/memory-road/static/css/2.86df01db.chunk.css",
-    "static/js/2.3d2c4dcd.chunk.js": "/memory-road/static/js/2.3d2c4dcd.chunk.js",
-    "static/js/2.3d2c4dcd.chunk.js.map": "/memory-road/static/js/2.3d2c4dcd.chunk.js.map",
+    "static/js/2.16f4ce5f.chunk.js": "/memory-road/static/js/2.16f4ce5f.chunk.js",
+    "static/js/2.16f4ce5f.chunk.js.map": "/memory-road/static/js/2.16f4ce5f.chunk.js.map",
     "index.html": "/memory-road/index.html",
-    "precache-manifest.2dcf419130f2fc124240d8b142ca00a3.js": "/memory-road/precache-manifest.2dcf419130f2fc124240d8b142ca00a3.js",
+    "precache-manifest.af1ad7208b35c924d7fd215c9fd656e2.js": "/memory-road/precache-manifest.af1ad7208b35c924d7fd215c9fd656e2.js",
     "service-worker.js": "/memory-road/service-worker.js",
     "static/css/2.86df01db.chunk.css.map": "/memory-road/static/css/2.86df01db.chunk.css.map",
-    "static/css/main.3bc46635.chunk.css.map": "/memory-road/static/css/main.3bc46635.chunk.css.map",
-    "static/js/2.3d2c4dcd.chunk.js.LICENSE.txt": "/memory-road/static/js/2.3d2c4dcd.chunk.js.LICENSE.txt",
+    "static/css/main.35a3779e.chunk.css.map": "/memory-road/static/css/main.35a3779e.chunk.css.map",
+    "static/js/2.16f4ce5f.chunk.js.LICENSE.txt": "/memory-road/static/js/2.16f4ce5f.chunk.js.LICENSE.txt",
     "static/media/nophoto.jpg": "/memory-road/static/media/nophoto.9dd537f0.jpg",
     "static/media/persik.png": "/memory-road/static/media/persik.4e1ec840.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e54b47de.js",
     "static/css/2.86df01db.chunk.css",
-    "static/js/2.3d2c4dcd.chunk.js",
-    "static/css/main.3bc46635.chunk.css",
-    "static/js/main.548c717a.chunk.js"
+    "static/js/2.16f4ce5f.chunk.js",
+    "static/css/main.35a3779e.chunk.css",
+    "static/js/main.06b35c9b.chunk.js"
   ]
 }
