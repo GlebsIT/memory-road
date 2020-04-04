@@ -22,22 +22,25 @@ const Home = ({ id, go, fetchedUser }) => (
 		</Group>}
 
 		<Group title="Navigation Example">
-			<Div>
-				<Button size="xl" level="2" onClick={go} data-to="persik">
-					Добавить фотографию
-				</Button>
-			</Div>
+			
 			<Div>
 				<Button size="xl" level="2" onClick={go} data-to="album">
-						Галерея
+						Проверить фамилию
 				</Button>
 			</Div>
+			
+			<Div>
+				<Button size="xl" level="2" onClick={go} data-to="addinfo">
+					Добавить фотографию героя
+				</Button>
+			</Div>
+			
 			<Div>
 				<Button size="xl" level="2" onClick={go} data-to="album">
-						Рейтинг
+						Рейтинг героев
 				</Button>
 			</Div>
-		
+			
 		
 		</Group>
 	</Panel>
