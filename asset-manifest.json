@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/memory-road/static/css/main.35a3779e.chunk.css",
-    "main.js": "/memory-road/static/js/main.06b35c9b.chunk.js",
-    "main.js.map": "/memory-road/static/js/main.06b35c9b.chunk.js.map",
+    "main.js": "/memory-road/static/js/main.eb67d118.chunk.js",
+    "main.js.map": "/memory-road/static/js/main.eb67d118.chunk.js.map",
     "runtime-main.js": "/memory-road/static/js/runtime-main.e54b47de.js",
     "runtime-main.js.map": "/memory-road/static/js/runtime-main.e54b47de.js.map",
     "static/css/2.86df01db.chunk.css": "/memory-road/static/css/2.86df01db.chunk.css",
     "static/js/2.16f4ce5f.chunk.js": "/memory-road/static/js/2.16f4ce5f.chunk.js",
     "static/js/2.16f4ce5f.chunk.js.map": "/memory-road/static/js/2.16f4ce5f.chunk.js.map",
     "index.html": "/memory-road/index.html",
-    "precache-manifest.af1ad7208b35c924d7fd215c9fd656e2.js": "/memory-road/precache-manifest.af1ad7208b35c924d7fd215c9fd656e2.js",
+    "precache-manifest.8f9cfd997a8753826a28ef6c1d67dc66.js": "/memory-road/precache-manifest.8f9cfd997a8753826a28ef6c1d67dc66.js",
     "service-worker.js": "/memory-road/service-worker.js",
     "static/css/2.86df01db.chunk.css.map": "/memory-road/static/css/2.86df01db.chunk.css.map",
     "static/css/main.35a3779e.chunk.css.map": "/memory-road/static/css/main.35a3779e.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.86df01db.chunk.css",
     "static/js/2.16f4ce5f.chunk.js",
     "static/css/main.35a3779e.chunk.css",
-    "static/js/main.06b35c9b.chunk.js"
+    "static/js/main.eb67d118.chunk.js"
   ]
 }
