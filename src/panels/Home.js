@@ -37,7 +37,7 @@ const Home = ({ id, go, fetchedUser }) => (
 			
 			<Div>
 				<Button size="xl" level="2" onClick={go} data-to="album">
-						Рейтинг героев
+						Рейтинг пользователей
 				</Button>
 			</Div>
 			
