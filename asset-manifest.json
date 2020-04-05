@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/memory-road/static/css/main.6b6b7859.chunk.css",
-    "main.js": "/memory-road/static/js/main.4d3d1a7d.chunk.js",
-    "main.js.map": "/memory-road/static/js/main.4d3d1a7d.chunk.js.map",
+    "main.css": "/memory-road/static/css/main.cbb39aa2.chunk.css",
+    "main.js": "/memory-road/static/js/main.7e23bfce.chunk.js",
+    "main.js.map": "/memory-road/static/js/main.7e23bfce.chunk.js.map",
     "runtime-main.js": "/memory-road/static/js/runtime-main.e54b47de.js",
     "runtime-main.js.map": "/memory-road/static/js/runtime-main.e54b47de.js.map",
     "static/css/2.86df01db.chunk.css": "/memory-road/static/css/2.86df01db.chunk.css",
     "static/js/2.34c44049.chunk.js": "/memory-road/static/js/2.34c44049.chunk.js",
     "static/js/2.34c44049.chunk.js.map": "/memory-road/static/js/2.34c44049.chunk.js.map",
     "index.html": "/memory-road/index.html",
-    "precache-manifest.fb4484045cb13c4c0914bb7b1894b43c.js": "/memory-road/precache-manifest.fb4484045cb13c4c0914bb7b1894b43c.js",
+    "precache-manifest.4e8739343cf2149ec799c0d170176acd.js": "/memory-road/precache-manifest.4e8739343cf2149ec799c0d170176acd.js",
     "service-worker.js": "/memory-road/service-worker.js",
     "static/css/2.86df01db.chunk.css.map": "/memory-road/static/css/2.86df01db.chunk.css.map",
-    "static/css/main.6b6b7859.chunk.css.map": "/memory-road/static/css/main.6b6b7859.chunk.css.map",
+    "static/css/main.cbb39aa2.chunk.css.map": "/memory-road/static/css/main.cbb39aa2.chunk.css.map",
     "static/js/2.34c44049.chunk.js.LICENSE.txt": "/memory-road/static/js/2.34c44049.chunk.js.LICENSE.txt",
     "static/media/nophoto.jpg": "/memory-road/static/media/nophoto.9dd537f0.jpg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.e54b47de.js",
     "static/css/2.86df01db.chunk.css",
     "static/js/2.34c44049.chunk.js",
-    "static/css/main.6b6b7859.chunk.css",
-    "static/js/main.4d3d1a7d.chunk.js"
+    "static/css/main.cbb39aa2.chunk.css",
+    "static/js/main.7e23bfce.chunk.js"
   ]
 }
