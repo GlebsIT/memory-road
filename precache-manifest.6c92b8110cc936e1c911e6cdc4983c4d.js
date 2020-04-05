@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "85a3edfccfcdc27e025eabac67896ecb",
+    "revision": "f2942465cc11f51b1e0c4b4946252119",
     "url": "/memory-road/index.html"
   },
   {
-    "revision": "c009c57d724f0f353047",
+    "revision": "575ba40e984b9a77b77d",
     "url": "/memory-road/static/css/2.86df01db.chunk.css"
   },
   {
-    "revision": "2603266b229f5f619820",
+    "revision": "c348844c86da88c0c08b",
     "url": "/memory-road/static/css/main.bf9f221f.chunk.css"
   },
   {
-    "revision": "c009c57d724f0f353047",
-    "url": "/memory-road/static/js/2.5ec3d020.chunk.js"
+    "revision": "575ba40e984b9a77b77d",
+    "url": "/memory-road/static/js/2.5096001c.chunk.js"
   },
   {
     "revision": "970d7393064dc8df8708ab396e4ac92c",
-    "url": "/memory-road/static/js/2.5ec3d020.chunk.js.LICENSE.txt"
+    "url": "/memory-road/static/js/2.5096001c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2603266b229f5f619820",
-    "url": "/memory-road/static/js/main.fb383e8a.chunk.js"
+    "revision": "c348844c86da88c0c08b",
+    "url": "/memory-road/static/js/main.0c38de92.chunk.js"
   },
   {
     "revision": "ebe1d8ebc3059ce52fb0",
